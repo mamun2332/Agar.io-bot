@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        Enes89(f5 zoom out)
+// @namespace   Enes89(f5 zoom out)
 // @include     http://agar.io/*
 // @version     3.551
 // @grant       none
